@@ -1,0 +1,14 @@
+{
+    "latitude": 17.375,
+    "longitude": 78.5,
+    "generationtime_ms": 0.25,
+    "utc_offset_seconds": 0,
+    "timezone": "GMT",
+    "current_weather": {
+        "temperature": 31.2,
+        "windspeed": 8.4,
+        "winddirection": 245,
+        "weathercode": 0,
+        "time": "2026-05-30T15:00"
+    }
+}
